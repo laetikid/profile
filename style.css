@@ -80,6 +80,7 @@ div {
 }
 .img-circle {
     border-radius: 50%;
+    opacity: 1;
 }
 img[Attributes Style] {
     width: 100px;
